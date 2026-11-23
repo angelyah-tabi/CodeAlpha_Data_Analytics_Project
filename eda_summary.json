@@ -1,0 +1,12 @@
+{
+  "source_file":"data\\sample_reviews.csv",
+  "rows_after_cleaning":15,
+  "missing_reviews":0,
+  "duplicate_reviews":0,
+  "average_words_per_review":8.2,
+  "sentiment_counts":{
+    "Positive":8,
+    "Negative":6,
+    "Neutral":1
+  }
+}
